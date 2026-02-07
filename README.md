@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=7d2ae8&height=250&section=header&text=Raúl%20|%20R1ul09&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35" alt="Banner Raúl" />
+  <img src="Banner-Raul-Github.png" alt="Banner Raúl" />
 </p>
 
 ## 👤 Sobre mí
